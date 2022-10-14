@@ -1,11 +1,29 @@
-### Hi there, I'm Mikeson 👋
+## 👋 Hey there,
+* * *
+My name is Mikeson, and I'm a Front End Developer who enjoys working with JavaScript technologies. Currently, I'm focused on learning everything related to Web Development. I'm also passionate about exploring new technologies, which I can utilise to solve real-life problems.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MikesonO&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikesonO&layout=compact">
+<br/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<a href="https://twitter.com/itsMikeson_">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+
+
+## 🛠 Technologies & Tools 
+* * *
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,webpack,java,python,git,github&perline=5)](https://skillicons.dev)
+
+
+## 💻 Learning soon... 
+* * *
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongo,vue)](https://skillicons.dev)
+## Stats
+* * *
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MikesonO&theme=dark&hide_border=true&background=22272d)](https://git.io/streak-stats)
+
+
+
