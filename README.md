@@ -5,10 +5,10 @@ My name is Mikeson, and I'm a Front End Developer who enjoys working with JavaSc
 
 
 ## 🛠 Technologies & Tools 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,webpack,java,python,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,webpack,java,python,git,github)](https://skillicons.dev)
 
 ## 💻 Learning soon... 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongo,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,mongo,vue)](https://skillicons.dev)
 ## 📈 Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MikesonO&theme=dark&hide_border=true&background=2C3333)](https://git.io/streak-stats)
 
