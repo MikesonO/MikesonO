@@ -5,7 +5,7 @@ My name is Mikeson, and I'm a Front End Developer who enjoys working with JavaSc
 
 
 ## 🛠 Technologies & Tools 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,webpack,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,jest,webpack,java,python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## 💻 Learning soon... 
